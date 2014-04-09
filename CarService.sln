@@ -1,0 +1,92 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "CarService", "CarService", "{0A136831-FFC9-4DD3-BFCD-745D7ECBDED8}"
+	ProjectSection(WebsiteProperties) = preProject
+		SccProjectName = ""$/CarService.root/CarService", CAAAAAAA"
+		SccAuxPath = ""
+		SccLocalPath = ".."
+		SccProvider = "MSSCCI:Microsoft Visual SourceSafe"
+		TargetFramework = "3.5"
+		ProjectReferences = "{957669A2-F24E-4741-84BD-FCD51D456AA8}|CarsBL.dll;{A8386C0A-8697-4A86-B725-AF58FAC8F8F6}|CarsInfo.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/CarService"
+		Debug.AspNetCompiler.PhysicalPath = "F:\CarServiceFromSobha\CarService\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\CarService\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/CarService"
+		Release.AspNetCompiler.PhysicalPath = "F:\CarServiceFromSobha\CarService\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\CarService\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "3096"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarsBL", "Service\CarsBL\CarsBL.csproj", "{957669A2-F24E-4741-84BD-FCD51D456AA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarsInfo", "Service\CarsInfo\CarsInfo.csproj", "{A8386C0A-8697-4A86-B725-AF58FAC8F8F6}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 4
+		SccLocalPath0 = .
+		SccWebProject1 = true
+		SccProjectUniqueName1 = CarService
+		SccLocalPath1 = .
+		SccProjectFilePathRelativizedFromConnection1 = CarService\\
+		SccProjectEnlistmentChoice1 = 2
+		SccProjectUniqueName2 = Service\\CarsBL\\CarsBL.csproj
+		SccLocalPath2 = .
+		SccProjectFilePathRelativizedFromConnection2 = Service\\CarsBL\\
+		SccProjectUniqueName3 = Service\\CarsInfo\\CarsInfo.csproj
+		SccLocalPath3 = .
+		SccProjectFilePathRelativizedFromConnection3 = Service\\CarsInfo\\
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Release|.NET = Release|.NET
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A136831-FFC9-4DD3-BFCD-745D7ECBDED8}.Debug|.NET.ActiveCfg = Debug|.NET
+		{0A136831-FFC9-4DD3-BFCD-745D7ECBDED8}.Debug|.NET.Build.0 = Debug|.NET
+		{0A136831-FFC9-4DD3-BFCD-745D7ECBDED8}.Debug|Any CPU.ActiveCfg = Debug|.NET
+		{0A136831-FFC9-4DD3-BFCD-745D7ECBDED8}.Debug|Mixed Platforms.ActiveCfg = Debug|.NET
+		{0A136831-FFC9-4DD3-BFCD-745D7ECBDED8}.Debug|Mixed Platforms.Build.0 = Debug|.NET
+		{0A136831-FFC9-4DD3-BFCD-745D7ECBDED8}.Release|.NET.ActiveCfg = Debug|.NET
+		{0A136831-FFC9-4DD3-BFCD-745D7ECBDED8}.Release|.NET.Build.0 = Debug|.NET
+		{0A136831-FFC9-4DD3-BFCD-745D7ECBDED8}.Release|Any CPU.ActiveCfg = Debug|.NET
+		{0A136831-FFC9-4DD3-BFCD-745D7ECBDED8}.Release|Mixed Platforms.ActiveCfg = Debug|.NET
+		{0A136831-FFC9-4DD3-BFCD-745D7ECBDED8}.Release|Mixed Platforms.Build.0 = Debug|.NET
+		{957669A2-F24E-4741-84BD-FCD51D456AA8}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{957669A2-F24E-4741-84BD-FCD51D456AA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{957669A2-F24E-4741-84BD-FCD51D456AA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{957669A2-F24E-4741-84BD-FCD51D456AA8}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{957669A2-F24E-4741-84BD-FCD51D456AA8}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{957669A2-F24E-4741-84BD-FCD51D456AA8}.Release|.NET.ActiveCfg = Release|Any CPU
+		{957669A2-F24E-4741-84BD-FCD51D456AA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{957669A2-F24E-4741-84BD-FCD51D456AA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{957669A2-F24E-4741-84BD-FCD51D456AA8}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{957669A2-F24E-4741-84BD-FCD51D456AA8}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{A8386C0A-8697-4A86-B725-AF58FAC8F8F6}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{A8386C0A-8697-4A86-B725-AF58FAC8F8F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8386C0A-8697-4A86-B725-AF58FAC8F8F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8386C0A-8697-4A86-B725-AF58FAC8F8F6}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{A8386C0A-8697-4A86-B725-AF58FAC8F8F6}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{A8386C0A-8697-4A86-B725-AF58FAC8F8F6}.Release|.NET.ActiveCfg = Release|Any CPU
+		{A8386C0A-8697-4A86-B725-AF58FAC8F8F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8386C0A-8697-4A86-B725-AF58FAC8F8F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8386C0A-8697-4A86-B725-AF58FAC8F8F6}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{A8386C0A-8697-4A86-B725-AF58FAC8F8F6}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

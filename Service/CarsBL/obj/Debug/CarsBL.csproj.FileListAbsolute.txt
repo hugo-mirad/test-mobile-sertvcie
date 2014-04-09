@@ -1,0 +1,7 @@
+D:\VSS Working\Car Service\Service\CarsBL\obj\Debug\ResolveAssemblyReference.cache
+D:\VSS Working\Car Service\Service\CarsBL\bin\Debug\CarsBL.dll
+D:\VSS Working\Car Service\Service\CarsBL\bin\Debug\CarsBL.pdb
+D:\VSS Working\Car Service\Service\CarsBL\bin\Debug\CarsInfo.dll
+D:\VSS Working\Car Service\Service\CarsBL\bin\Debug\CarsInfo.pdb
+D:\VSS Working\Car Service\Service\CarsBL\obj\Debug\CarsBL.dll
+D:\VSS Working\Car Service\Service\CarsBL\obj\Debug\CarsBL.pdb

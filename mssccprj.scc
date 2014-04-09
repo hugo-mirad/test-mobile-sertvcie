@@ -1,0 +1,5 @@
+SCC = This is a Source Code Control file
+
+[CarService.sln]
+SCC_Aux_Path = "\\vss\CarService"
+SCC_Project_Name = "$/CarService.root/CarService", CAAAAAAA
